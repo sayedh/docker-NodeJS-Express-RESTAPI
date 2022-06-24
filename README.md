@@ -18,7 +18,7 @@ In this project I use Docker to quickly create a simple REST API
 ## Executing program
 * Download the repository to your computer and go to project file
 ```
-git clone ttps://github.com/sayedh/docker-NodeJS-Express-RESTAPI
+git clone https://github.com/sayedh/docker-NodeJS-Express-RESTAPI
 cd docker-NodeJS-Express-RESTAPI
 ```
 * Build and run the docker app
